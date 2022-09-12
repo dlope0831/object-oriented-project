@@ -1,0 +1,22 @@
+{
+  "name": "object-oriented-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dlope0831/object-oriented-project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dlope0831/object-oriented-project/issues"
+  },
+  "homepage": "https://github.com/dlope0831/object-oriented-project#readme",
+  "devDependencies": {
+    "jest": "^29.0.3"
+  }
+}
